@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name":"Ali",
+            "age":"22",
+            "status":true,
+            "id":"2"
+        },
+        {
+           "name":"Maga",
+            "age":"18",
+            "status":false,
+            "id":"3" 
+        },
+        {
+            "name":"Lola",
+            "age":"31",
+            "status":true,
+            "id":"5"
+        }
+    ]
+}

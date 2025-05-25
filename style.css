@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box {
+    max-width: 900px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+
+}
+
+.conteiner{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 300px;
+}
+body {
+    background: linear-gradient(ar-gradient(to right, #b86464, #91ce79));
+}
+
